@@ -353,6 +353,7 @@ p.img-404 {
 #home-title {
   margin: 0;
   text-align: center;
+  font-size: 1.8em;
 }
 
 #home-subtitle {
@@ -684,6 +685,14 @@ hr.post-end {
     opacity: .8;
     text-transform: uppercase;
   }
+}
+
+.img-circle {
+  margin: 0 auto 5% auto;
+  text-align: center;
+  max-height: 200px;
+  border-radius: 50%;
+  border : 3px solid white;
 }
 
 // Media Queries
